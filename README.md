@@ -56,6 +56,7 @@ i) Unit testing focuses on individual components or functions of the software. E
 ii) Integration testing checks how different units work together. It assesses the interactions between integrated components to ensure they function correctly as a group.This testing is crucial for identifying interface defects and ensuring that combined parts of the application communicate effectively. It helps catch issues that may not be apparent during unit testing.
 iii)  System testing evaluates the complete and integrated software system to verify that it meets specified requirements. This testing is performed in an environment that closely resembles the production environment. It ensures that the entire system functions as intended and meets both functional and non-functional requirements. System testing is vital for validating the overall behavior of the application before it is released. 
 iv) Acceptance testing, often referred to as User Acceptance Testing (UAT), is the final phase of testing. It involves end-users testing the software to ensure it meets their needs and requirements.This type of testing is critical for confirming that the software is ready for deployment. It validates that the application fulfills business requirements and is acceptable for use in a real-world environment. 
+
 #Part 2: Introduction to AI and Prompt Engineering
 
 
